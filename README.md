@@ -17,4 +17,4 @@ The machine-learning based surrogate model for the ionospheric outputs from REPP
   Ryuho Kataoka, National Institute of Polar Research, Japan
   
   ## Citation
-  Kataoka, R., Nakanmizo, A., S. Nakano, and S. Fujita (2023), Machine learning emulator for the simulation results of auroral current system, submitted to Geoscientific Model Development (submitted in May, 2003)
+  Kataoka, R., A. Nakanmizo, S. Nakano, and S. Fujita (2023), Machine learning emulator for the simulation results of auroral current system, submitted to Geoscientific Model Development (submitted in May, 2003)
