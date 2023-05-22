@@ -10,8 +10,8 @@ The machine-learning based surrogate model for the ionospheric outputs from REPP
   * rep_emu_omni_ae.ipyb: Jupyter notebook demo, for reproducing OMNI-input and AE output figures.
 
   ## How to Use
-  * Run the sample code rep_emu_?2.ipyb and rep_emu_omni_ae.ipybin the jupyter notebook.
-  * Some python modules, such as numpy, scipy, matplotlib, and networkx, pyspedas, as well as [esn_dts_openloop.py](https://github.com/GTANAKA-LAB/DTS-ES), are required to run the codes. 
+  * Run the sample code rep_emu_?2.ipyb and rep_emu_omni_ae.ipyb in the jupyter notebook.
+  * Some python modules, such as numpy, scipy, matplotlib, networkx, pyspedas, as well as [esn_dts_openloop.py](https://github.com/GTANAKA-LAB/DTS-ES), are required to run the codes. 
 
   ## Developer
   Ryuho Kataoka, National Institute of Polar Research, Japan
