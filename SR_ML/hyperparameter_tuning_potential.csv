@@ -1,0 +1,2 @@
+reservoir_size,density,input_scaling,spectral_radius,beta,training_time,rmse,nrmse
+250,0.1,0.1,0.99,0.001,1.78189395,6.335330066880917,0.05198968742404508
