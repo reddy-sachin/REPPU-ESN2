@@ -1,6 +1,0 @@
-id,notes,parameter,pca_num,RMSE,NRMSE,R,PE,t_time
-1,no lookback,potential,10,6.25,0.14,0.84,0.61,20
-2,15 and 30 ,potential,10,5.41,0.03,0.88,0.73,30
-3,Every 5 mins to 30,potential,10,5.17,0.03,0.89,0.75,60
-4,Every 5 mins to 60,potential,10,4.78,0.03,0.91,0.79,120
-5,Evevery 10 mins to 60,potential,10,4.98,0.03,0.9,0.75,90
