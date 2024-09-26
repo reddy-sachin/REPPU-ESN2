@@ -1,0 +1,11 @@
+model,feature,mae,nmae,R
+smrai2,pot,4.1,0.34,0.87
+smrai2,fac,0.07,0.4,0.73
+smrai2,sxx,0.48,0.29,0.92
+smrai2,syy,0.47,0.29,0.92
+smrai2,sxy,0.94,0.33,0.84
+smrai3,pot,4.4,0.36,0.80
+smrai3,fac,0.035,0.35,0.72
+smrai3,sxx,0.23,0.15,0.94
+smrai3,syy,0.61,0.20,0.89
+smrai3,sxy,,,

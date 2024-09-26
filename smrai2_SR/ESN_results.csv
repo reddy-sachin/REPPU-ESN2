@@ -1,0 +1,5 @@
+run,train_time,rmse,nrmse,r,skill
+potential,6,5.2,0.04,0.91,0.78 
+x_conductivity,
+y_conductivity,
+current,8,0.1,0.02,0.77,0
