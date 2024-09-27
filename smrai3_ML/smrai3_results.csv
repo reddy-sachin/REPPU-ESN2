@@ -9,3 +9,9 @@ smrai3,fac,0.035,0.35,0.72
 smrai3,sxx,0.23,0.15,0.94
 smrai3,syy,0.61,0.20,0.89
 smrai3,sxy,,,
+smrai3b,pot,3.8,0.32,0.83
+smrai3b,fac,0.039,0.34,0.73
+smrai3b,sxx,
+smrai3b,syy,
+smrai3b,sxy,,,
+
