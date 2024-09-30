@@ -4,14 +4,19 @@ smrai2,fac,0.07,0.4,0.73
 smrai2,sxx,0.48,0.29,0.92
 smrai2,syy,0.47,0.29,0.92
 smrai2,sxy,0.94,0.33,0.84
-smrai3,pot,4.4,0.36,0.80
-smrai3,fac,0.035,0.35,0.72
-smrai3,sxx,0.23,0.15,0.94
-smrai3,syy,0.61,0.20,0.89
-smrai3,sxy,,,
+smrai3a,pot,4.4,0.36,0.80
+smrai3a,fac,0.035,0.35,0.72
+smrai3a,sxx,0.23,0.15,0.94
+smrai3a,syy,0.61,0.20,0.89
+smrai3a,sxy,,,
 smrai3b,pot,3.8,0.32,0.83
 smrai3b,fac,0.039,0.34,0.73
-smrai3b,sxx,
+smrai3b,sxx,0.18,0.10,0.96
 smrai3b,syy,
-smrai3b,sxy,,,
+smrai3b,sxy,0.17,0.10,0.95
+smrai3,pot,3.7,0.33,0.82
+smrai3,fac,0.4,0.34,0.73
+smrai3,sxx,0.19,0.1,0.96
+smrai3,syy,0.6,0.2,0.9
+smrai3,sxy,0.18,0.1,0.95
 
